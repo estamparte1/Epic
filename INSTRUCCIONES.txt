@@ -1,0 +1,28 @@
+EPIC CLOTHING PUNTO DE VENTA — IPHONE, ANDROID Y WEB
+
+1. Descomprime el archivo ZIP desde Archivos (iPhone) o Files (Android).
+2. Crea un repositorio público NUEVO en GitHub llamado epic-clothing-pos.
+3. Sube index.html, logo.png, icon.png, manifest.json, sw.js a la raíz del repositorio (NO el ZIP).
+4. Abre Settings > Pages > Source: Deploy from a branch > main > /(root) > Save.
+5. Espera unos minutos y abre Visit site.
+6. iPhone: Safari > Compartir > Agregar a pantalla de inicio.
+   Android: Chrome > menú > Instalar aplicación / Agregar a pantalla principal.
+7. Abre un turno, captura fondo inicial y comienza a vender.
+8. Registra varias opciones en el mismo carrito y cobra una sola vez por efectivo, transferencia o tarjeta.
+9. Consulta Historial por fecha. Cierra el turno desde Corte.
+10. Haz respaldos JSON frecuentemente en la sección Respaldos.
+
+DETALLES
+- Llaveros: $40 unidad; 3 por $100.
+- Stickers: $15 unidad; 3 por $30.
+- Camisetas: $200 unidad; 2 por $300.
+- Sudaderas: $450 unidad.
+- Cada opción identifica automáticamente al emprendedor propietario.
+- El fondo inicial NO es ingreso por venta; se suma solo al efectivo esperado.
+- No se cobra IVA ni se emiten notas o facturas.
+- Base de datos local: almacenamiento local del navegador, sin nube.
+- Los datos NO se sincronizan entre dispositivos.
+- Borrar datos del navegador o desinstalar puede eliminar registros; respalda con frecuencia.
+- No procesa tarjetas ni transferencias: solo registra el método de pago.
+- CSV para analizar ventas por artículo; JSON para respaldar y restaurar.
+- Prueba el flujo con ventas ficticias antes de usar con clientes.
